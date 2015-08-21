@@ -2,6 +2,10 @@
 # authors: Jasjot S Sumal, Amador J Silva
 Final Project for CS371 (Computer Graphics), Fall 2014
 
+following code contributed by instructor, Gordon Griesel:
+  fonts.h, libggfonts.so, libggfonts32.so, log.c, log.h,
+  and some code in tree_3d.c for opening/resizing window, tracking mouse, and initializing opengl
+
 Warning:  This project usually takes a lot of computational resources,
           and is not using optimal algorithms, so program may sometimes perform slowly.
 
