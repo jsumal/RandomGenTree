@@ -11,13 +11,13 @@ Warning:  This project usually takes a lot of computational resources,
 
 To run project (on Linux operating systems):
   1. open the command line prompt and navigate to the directory containing the project
-  
+
   if the computer is using 64-bit architechture:
   2. to compile the executable, enter the following in the prompt:
     >  make tree_3d
   3. then to run the program:
     >  ./tree_3d
-    
+
   if the computer is using 32-bit architechture:
   2. to compile the executable, enter the following in the prompt:
     >  make tree_3d_32bit
