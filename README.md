@@ -1,6 +1,6 @@
 # RandomGenTree
 # authors: Jasjot S Sumal, Amador J Silva
-Final Project for CS371 (Computer Graphics), Fall 2014
+## Final Project for CS371 (Computer Graphics), Fall 2014
 
 following code contributed by instructor, Gordon Griesel:
   fonts.h, libggfonts.so, libggfonts32.so, log.c, log.h,
@@ -27,14 +27,14 @@ To run project (on Linux operating systems):
   4. to remove the executable and any associated assembly files, use:
     >  make clean
     
-Key Mappings:
-0           - show menu
-1           - generate a new tree
-x, y, z     - rotate tree on x, y, or z axis
-w, a, s d   - translate tree up(w), left(a), down(s), or right(d)
-8, 9        - zoom in/out
+## Key Mappings:
+<p>0           - show menu</p>
+<p>1           - generate a new tree</p>
+<p>x, y, z     - rotate tree on x, y, or z axis</p>
+<p>w, a, s d   - translate tree up(w), left(a), down(s), or right(d)</p>
+<p>8, 9        - zoom in/out</p>
     
-Troubleshooting (known issues):
+## Troubleshooting (known issues):
 1. If the 'make' command is giving problems with the font system being used,
    these fonts can be removed from the program using the following command
    (must be in the project directory):
